@@ -1,0 +1,19 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="MasterPage.master.cs" Inherits="VotreProjet.MasterPage" %>
+<html>
+<head>
+    <title>Mon Site</title>
+</head>
+<body>
+    <div class="header">Mon En-tête</div>
+    <div class="sidebar">
+        <ul>
+            <li><a href="Home.aspx">Accueil</a></li>
+            <li><a href="Voyages.aspx">Voyages</a></li>
+            <li><a href="Contact.aspx">Contact</a></li>
+        </ul>
+    </div>
+    <div class="content">
+        <asp:ContentPlaceHolder ID="MainContent" runat="server" />
+    </div>
+</body>
+</html>

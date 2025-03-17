@@ -1,0 +1,406 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\abdel\\source\\repos\\CentreVoyage\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AF120090-2713-46D4-B097-F00393239C95}|CentreVoyage\\CentreVoyage.csproj|c:\\users\\abdel\\source\\repos\\centrevoyage\\centrevoyage\\view\\connectionfrom.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{AF120090-2713-46D4-B097-F00393239C95}|CentreVoyage\\CentreVoyage.csproj|solutionrelative:centrevoyage\\view\\connectionfrom.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF120090-2713-46D4-B097-F00393239C95}|CentreVoyage\\CentreVoyage.csproj|c:\\users\\abdel\\source\\repos\\centrevoyage\\centrevoyage\\view\\detailsinscription.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF120090-2713-46D4-B097-F00393239C95}|CentreVoyage\\CentreVoyage.csproj|solutionrelative:centrevoyage\\view\\detailsinscription.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF120090-2713-46D4-B097-F00393239C95}|CentreVoyage\\CentreVoyage.csproj|c:\\users\\abdel\\source\\repos\\centrevoyage\\centrevoyage\\view\\detailsinscription.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{AF120090-2713-46D4-B097-F00393239C95}|CentreVoyage\\CentreVoyage.csproj|solutionrelative:centrevoyage\\view\\detailsinscription.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF120090-2713-46D4-B097-F00393239C95}|CentreVoyage\\CentreVoyage.csproj|c:\\users\\abdel\\source\\repos\\centrevoyage\\centrevoyage\\view\\listindcri.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF120090-2713-46D4-B097-F00393239C95}|CentreVoyage\\CentreVoyage.csproj|solutionrelative:centrevoyage\\view\\listindcri.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF120090-2713-46D4-B097-F00393239C95}|CentreVoyage\\CentreVoyage.csproj|c:\\users\\abdel\\source\\repos\\centrevoyage\\centrevoyage\\view\\listindcri.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{AF120090-2713-46D4-B097-F00393239C95}|CentreVoyage\\CentreVoyage.csproj|solutionrelative:centrevoyage\\view\\listindcri.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF120090-2713-46D4-B097-F00393239C95}|CentreVoyage\\CentreVoyage.csproj|c:\\users\\abdel\\source\\repos\\centrevoyage\\centrevoyage\\view\\inscrire.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{AF120090-2713-46D4-B097-F00393239C95}|CentreVoyage\\CentreVoyage.csproj|solutionrelative:centrevoyage\\view\\inscrire.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF120090-2713-46D4-B097-F00393239C95}|CentreVoyage\\CentreVoyage.csproj|c:\\users\\abdel\\source\\repos\\centrevoyage\\centrevoyage\\view\\basepage.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{AF120090-2713-46D4-B097-F00393239C95}|CentreVoyage\\CentreVoyage.csproj|solutionrelative:centrevoyage\\view\\basepage.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF120090-2713-46D4-B097-F00393239C95}|CentreVoyage\\CentreVoyage.csproj|c:\\users\\abdel\\source\\repos\\centrevoyage\\centrevoyage\\view\\detailsinscription.aspx.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF120090-2713-46D4-B097-F00393239C95}|CentreVoyage\\CentreVoyage.csproj|solutionrelative:centrevoyage\\view\\detailsinscription.aspx.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF120090-2713-46D4-B097-F00393239C95}|CentreVoyage\\CentreVoyage.csproj|c:\\users\\abdel\\source\\repos\\centrevoyage\\centrevoyage\\view\\basepage.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF120090-2713-46D4-B097-F00393239C95}|CentreVoyage\\CentreVoyage.csproj|solutionrelative:centrevoyage\\view\\basepage.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF120090-2713-46D4-B097-F00393239C95}|CentreVoyage\\CentreVoyage.csproj|c:\\users\\abdel\\source\\repos\\centrevoyage\\centrevoyage\\model\\inscription.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF120090-2713-46D4-B097-F00393239C95}|CentreVoyage\\CentreVoyage.csproj|solutionrelative:centrevoyage\\model\\inscription.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF120090-2713-46D4-B097-F00393239C95}|CentreVoyage\\CentreVoyage.csproj|c:\\users\\abdel\\source\\repos\\centrevoyage\\centrevoyage\\view\\inscrire.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF120090-2713-46D4-B097-F00393239C95}|CentreVoyage\\CentreVoyage.csproj|solutionrelative:centrevoyage\\view\\inscrire.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF120090-2713-46D4-B097-F00393239C95}|CentreVoyage\\CentreVoyage.csproj|c:\\users\\abdel\\source\\repos\\centrevoyage\\centrevoyage\\view\\masterpage.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}",
+      "RelativeMoniker": "D:0:0:{AF120090-2713-46D4-B097-F00393239C95}|CentreVoyage\\CentreVoyage.csproj|solutionrelative:centrevoyage\\view\\masterpage.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF120090-2713-46D4-B097-F00393239C95}|CentreVoyage\\CentreVoyage.csproj|c:\\users\\abdel\\source\\repos\\centrevoyage\\centrevoyage\\view\\connectionfrom.aspx.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF120090-2713-46D4-B097-F00393239C95}|CentreVoyage\\CentreVoyage.csproj|solutionrelative:centrevoyage\\view\\connectionfrom.aspx.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF120090-2713-46D4-B097-F00393239C95}|CentreVoyage\\CentreVoyage.csproj|c:\\users\\abdel\\source\\repos\\centrevoyage\\centrevoyage\\connection_data_base\\conndb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF120090-2713-46D4-B097-F00393239C95}|CentreVoyage\\CentreVoyage.csproj|solutionrelative:centrevoyage\\connection_data_base\\conndb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF120090-2713-46D4-B097-F00393239C95}|CentreVoyage\\CentreVoyage.csproj|c:\\users\\abdel\\source\\repos\\centrevoyage\\centrevoyage\\view\\connectionfrom.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF120090-2713-46D4-B097-F00393239C95}|CentreVoyage\\CentreVoyage.csproj|solutionrelative:centrevoyage\\view\\connectionfrom.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF120090-2713-46D4-B097-F00393239C95}|CentreVoyage\\CentreVoyage.csproj|c:\\users\\abdel\\source\\repos\\centrevoyage\\centrevoyage\\view\\listindcri.aspx.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF120090-2713-46D4-B097-F00393239C95}|CentreVoyage\\CentreVoyage.csproj|solutionrelative:centrevoyage\\view\\listindcri.aspx.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF120090-2713-46D4-B097-F00393239C95}|CentreVoyage\\CentreVoyage.csproj|c:\\users\\abdel\\source\\repos\\centrevoyage\\centrevoyage\\view\\inscrire.aspx.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF120090-2713-46D4-B097-F00393239C95}|CentreVoyage\\CentreVoyage.csproj|solutionrelative:centrevoyage\\view\\inscrire.aspx.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF120090-2713-46D4-B097-F00393239C95}|CentreVoyage\\CentreVoyage.csproj|c:\\users\\abdel\\source\\repos\\centrevoyage\\centrevoyage\\about.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{AF120090-2713-46D4-B097-F00393239C95}|CentreVoyage\\CentreVoyage.csproj|solutionrelative:centrevoyage\\about.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF120090-2713-46D4-B097-F00393239C95}|CentreVoyage\\CentreVoyage.csproj|c:\\users\\abdel\\source\\repos\\centrevoyage\\centrevoyage\\model\\descriptionvoyage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF120090-2713-46D4-B097-F00393239C95}|CentreVoyage\\CentreVoyage.csproj|solutionrelative:centrevoyage\\model\\descriptionvoyage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF120090-2713-46D4-B097-F00393239C95}|CentreVoyage\\CentreVoyage.csproj|c:\\users\\abdel\\source\\repos\\centrevoyage\\centrevoyage\\model\\employe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF120090-2713-46D4-B097-F00393239C95}|CentreVoyage\\CentreVoyage.csproj|solutionrelative:centrevoyage\\model\\employe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF120090-2713-46D4-B097-F00393239C95}|CentreVoyage\\CentreVoyage.csproj|c:\\users\\abdel\\source\\repos\\centrevoyage\\centrevoyage\\model\\voyage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF120090-2713-46D4-B097-F00393239C95}|CentreVoyage\\CentreVoyage.csproj|solutionrelative:centrevoyage\\model\\voyage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF120090-2713-46D4-B097-F00393239C95}|CentreVoyage\\CentreVoyage.csproj|c:\\users\\abdel\\source\\repos\\centrevoyage\\centrevoyage\\model\\transport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF120090-2713-46D4-B097-F00393239C95}|CentreVoyage\\CentreVoyage.csproj|solutionrelative:centrevoyage\\model\\transport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DetailsInscription.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\abdel\\source\\repos\\CentreVoyage\\CentreVoyage\\view\\DetailsInscription.aspx.cs",
+              "RelativeDocumentMoniker": "CentreVoyage\\view\\DetailsInscription.aspx.cs",
+              "ToolTip": "C:\\Users\\abdel\\source\\repos\\CentreVoyage\\CentreVoyage\\view\\DetailsInscription.aspx.cs",
+              "RelativeToolTip": "CentreVoyage\\view\\DetailsInscription.aspx.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAkwD4AAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-16T16:37:07.718Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DetailsInscription.aspx",
+              "DocumentMoniker": "C:\\Users\\abdel\\source\\repos\\CentreVoyage\\CentreVoyage\\view\\DetailsInscription.aspx",
+              "RelativeDocumentMoniker": "CentreVoyage\\view\\DetailsInscription.aspx",
+              "ToolTip": "C:\\Users\\abdel\\source\\repos\\CentreVoyage\\CentreVoyage\\view\\DetailsInscription.aspx",
+              "RelativeToolTip": "CentreVoyage\\view\\DetailsInscription.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-03-16T16:36:13.896Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ListIndcri.aspx",
+              "DocumentMoniker": "C:\\Users\\abdel\\source\\repos\\CentreVoyage\\CentreVoyage\\view\\ListIndcri.aspx",
+              "RelativeDocumentMoniker": "CentreVoyage\\view\\ListIndcri.aspx",
+              "ToolTip": "C:\\Users\\abdel\\source\\repos\\CentreVoyage\\CentreVoyage\\view\\ListIndcri.aspx",
+              "RelativeToolTip": "CentreVoyage\\view\\ListIndcri.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-03-16T15:27:07.774Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ListIndcri.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\abdel\\source\\repos\\CentreVoyage\\CentreVoyage\\view\\ListIndcri.aspx.cs",
+              "RelativeDocumentMoniker": "CentreVoyage\\view\\ListIndcri.aspx.cs",
+              "ToolTip": "C:\\Users\\abdel\\source\\repos\\CentreVoyage\\CentreVoyage\\view\\ListIndcri.aspx.cs",
+              "RelativeToolTip": "CentreVoyage\\view\\ListIndcri.aspx.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAgwC0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-16T16:09:03.492Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Inscription.cs",
+              "DocumentMoniker": "C:\\Users\\abdel\\source\\repos\\CentreVoyage\\CentreVoyage\\model\\Inscription.cs",
+              "RelativeDocumentMoniker": "CentreVoyage\\model\\Inscription.cs",
+              "ToolTip": "C:\\Users\\abdel\\source\\repos\\CentreVoyage\\CentreVoyage\\model\\Inscription.cs",
+              "RelativeToolTip": "CentreVoyage\\model\\Inscription.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-16T11:39:13.458Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ConnectionFrom.aspx",
+              "DocumentMoniker": "C:\\Users\\abdel\\source\\repos\\CentreVoyage\\CentreVoyage\\view\\ConnectionFrom.aspx",
+              "RelativeDocumentMoniker": "CentreVoyage\\view\\ConnectionFrom.aspx",
+              "ToolTip": "C:\\Users\\abdel\\source\\repos\\CentreVoyage\\CentreVoyage\\view\\ConnectionFrom.aspx",
+              "RelativeToolTip": "CentreVoyage\\view\\ConnectionFrom.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-03-16T12:15:55.826Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "BasePage.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\abdel\\source\\repos\\CentreVoyage\\CentreVoyage\\view\\BasePage.aspx.cs",
+              "RelativeDocumentMoniker": "CentreVoyage\\view\\BasePage.aspx.cs",
+              "ToolTip": "C:\\Users\\abdel\\source\\repos\\CentreVoyage\\CentreVoyage\\view\\BasePage.aspx.cs",
+              "RelativeToolTip": "CentreVoyage\\view\\BasePage.aspx.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-16T17:49:58.168Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "DetailsInscription.aspx.designer.cs",
+              "DocumentMoniker": "C:\\Users\\abdel\\source\\repos\\CentreVoyage\\CentreVoyage\\view\\DetailsInscription.aspx.designer.cs",
+              "RelativeDocumentMoniker": "CentreVoyage\\view\\DetailsInscription.aspx.designer.cs",
+              "ToolTip": "C:\\Users\\abdel\\source\\repos\\CentreVoyage\\CentreVoyage\\view\\DetailsInscription.aspx.designer.cs",
+              "RelativeToolTip": "CentreVoyage\\view\\DetailsInscription.aspx.designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-16T16:39:52.727Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "BasePage.aspx",
+              "DocumentMoniker": "C:\\Users\\abdel\\source\\repos\\CentreVoyage\\CentreVoyage\\view\\BasePage.aspx",
+              "RelativeDocumentMoniker": "CentreVoyage\\view\\BasePage.aspx",
+              "ToolTip": "C:\\Users\\abdel\\source\\repos\\CentreVoyage\\CentreVoyage\\view\\BasePage.aspx",
+              "RelativeToolTip": "CentreVoyage\\view\\BasePage.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-03-16T12:22:58.051Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Inscrire.aspx",
+              "DocumentMoniker": "C:\\Users\\abdel\\source\\repos\\CentreVoyage\\CentreVoyage\\view\\Inscrire.aspx",
+              "RelativeDocumentMoniker": "CentreVoyage\\view\\Inscrire.aspx",
+              "ToolTip": "C:\\Users\\abdel\\source\\repos\\CentreVoyage\\CentreVoyage\\view\\Inscrire.aspx",
+              "RelativeToolTip": "CentreVoyage\\view\\Inscrire.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-03-16T13:50:27.276Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Inscrire.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\abdel\\source\\repos\\CentreVoyage\\CentreVoyage\\view\\Inscrire.aspx.cs",
+              "RelativeDocumentMoniker": "CentreVoyage\\view\\Inscrire.aspx.cs",
+              "ToolTip": "C:\\Users\\abdel\\source\\repos\\CentreVoyage\\CentreVoyage\\view\\Inscrire.aspx.cs",
+              "RelativeToolTip": "CentreVoyage\\view\\Inscrire.aspx.cs",
+              "ViewState": "AgIAAEgAAAAAAAAAAAAswGYAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-16T14:13:58.177Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "MasterPage.master",
+              "DocumentMoniker": "C:\\Users\\abdel\\source\\repos\\CentreVoyage\\CentreVoyage\\view\\MasterPage.master",
+              "RelativeDocumentMoniker": "CentreVoyage\\view\\MasterPage.master",
+              "ToolTip": "C:\\Users\\abdel\\source\\repos\\CentreVoyage\\CentreVoyage\\view\\MasterPage.master",
+              "RelativeToolTip": "CentreVoyage\\view\\MasterPage.master",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-03-16T17:50:16.811Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ConnDb.cs",
+              "DocumentMoniker": "C:\\Users\\abdel\\source\\repos\\CentreVoyage\\CentreVoyage\\connection_data_base\\ConnDb.cs",
+              "RelativeDocumentMoniker": "CentreVoyage\\connection_data_base\\ConnDb.cs",
+              "ToolTip": "C:\\Users\\abdel\\source\\repos\\CentreVoyage\\CentreVoyage\\connection_data_base\\ConnDb.cs",
+              "RelativeToolTip": "CentreVoyage\\connection_data_base\\ConnDb.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-16T11:41:43.198Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ConnectionFrom.aspx.designer.cs",
+              "DocumentMoniker": "C:\\Users\\abdel\\source\\repos\\CentreVoyage\\CentreVoyage\\view\\ConnectionFrom.aspx.designer.cs",
+              "RelativeDocumentMoniker": "CentreVoyage\\view\\ConnectionFrom.aspx.designer.cs",
+              "ToolTip": "C:\\Users\\abdel\\source\\repos\\CentreVoyage\\CentreVoyage\\view\\ConnectionFrom.aspx.designer.cs",
+              "RelativeToolTip": "CentreVoyage\\view\\ConnectionFrom.aspx.designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-16T13:58:07.164Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ConnectionFrom.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\abdel\\source\\repos\\CentreVoyage\\CentreVoyage\\view\\ConnectionFrom.aspx.cs",
+              "RelativeDocumentMoniker": "CentreVoyage\\view\\ConnectionFrom.aspx.cs",
+              "ToolTip": "C:\\Users\\abdel\\source\\repos\\CentreVoyage\\CentreVoyage\\view\\ConnectionFrom.aspx.cs",
+              "RelativeToolTip": "CentreVoyage\\view\\ConnectionFrom.aspx.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAgwB0AAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-16T12:26:15.562Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ListIndcri.aspx.designer.cs",
+              "DocumentMoniker": "C:\\Users\\abdel\\source\\repos\\CentreVoyage\\CentreVoyage\\view\\ListIndcri.aspx.designer.cs",
+              "RelativeDocumentMoniker": "CentreVoyage\\view\\ListIndcri.aspx.designer.cs",
+              "ToolTip": "C:\\Users\\abdel\\source\\repos\\CentreVoyage\\CentreVoyage\\view\\ListIndcri.aspx.designer.cs",
+              "RelativeToolTip": "CentreVoyage\\view\\ListIndcri.aspx.designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-16T16:37:00.477Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Inscrire.aspx.designer.cs",
+              "DocumentMoniker": "C:\\Users\\abdel\\source\\repos\\CentreVoyage\\CentreVoyage\\view\\Inscrire.aspx.designer.cs",
+              "RelativeDocumentMoniker": "CentreVoyage\\view\\Inscrire.aspx.designer.cs",
+              "ToolTip": "C:\\Users\\abdel\\source\\repos\\CentreVoyage\\CentreVoyage\\view\\Inscrire.aspx.designer.cs",
+              "RelativeToolTip": "CentreVoyage\\view\\Inscrire.aspx.designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-16T14:37:08.638Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "About.aspx",
+              "DocumentMoniker": "C:\\Users\\abdel\\source\\repos\\CentreVoyage\\CentreVoyage\\About.aspx",
+              "RelativeDocumentMoniker": "CentreVoyage\\About.aspx",
+              "ToolTip": "C:\\Users\\abdel\\source\\repos\\CentreVoyage\\CentreVoyage\\About.aspx",
+              "RelativeToolTip": "CentreVoyage\\About.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-03-16T14:13:18.84Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Voyage.cs",
+              "DocumentMoniker": "C:\\Users\\abdel\\source\\repos\\CentreVoyage\\CentreVoyage\\model\\Voyage.cs",
+              "RelativeDocumentMoniker": "CentreVoyage\\model\\Voyage.cs",
+              "ToolTip": "C:\\Users\\abdel\\source\\repos\\CentreVoyage\\CentreVoyage\\model\\Voyage.cs",
+              "RelativeToolTip": "CentreVoyage\\model\\Voyage.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-16T11:38:58.515Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "DescriptionVoyage.cs",
+              "DocumentMoniker": "C:\\Users\\abdel\\source\\repos\\CentreVoyage\\CentreVoyage\\model\\DescriptionVoyage.cs",
+              "RelativeDocumentMoniker": "CentreVoyage\\model\\DescriptionVoyage.cs",
+              "ToolTip": "C:\\Users\\abdel\\source\\repos\\CentreVoyage\\CentreVoyage\\model\\DescriptionVoyage.cs",
+              "RelativeToolTip": "CentreVoyage\\model\\DescriptionVoyage.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-16T11:38:40.194Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Transport.cs",
+              "DocumentMoniker": "C:\\Users\\abdel\\source\\repos\\CentreVoyage\\CentreVoyage\\model\\Transport.cs",
+              "RelativeDocumentMoniker": "CentreVoyage\\model\\Transport.cs",
+              "ToolTip": "C:\\Users\\abdel\\source\\repos\\CentreVoyage\\CentreVoyage\\model\\Transport.cs",
+              "RelativeToolTip": "CentreVoyage\\model\\Transport.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-16T11:38:26.737Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Employe.cs",
+              "DocumentMoniker": "C:\\Users\\abdel\\source\\repos\\CentreVoyage\\CentreVoyage\\model\\Employe.cs",
+              "RelativeDocumentMoniker": "CentreVoyage\\model\\Employe.cs",
+              "ToolTip": "C:\\Users\\abdel\\source\\repos\\CentreVoyage\\CentreVoyage\\model\\Employe.cs",
+              "RelativeToolTip": "CentreVoyage\\model\\Employe.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-16T11:38:12.97Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
