@@ -9,7 +9,7 @@ namespace CentreVoyage.connection_data_base
 {
     public class ConnDb
     {
-        private static readonly string connectionString = @"Server=ABDELLAH\SQL2002;Database=voyages;Integrated Security=True;TrustServerCertificate=True";
+        private static readonly string connectionString = @"Data Source=MOHAMED-AMINE1;Initial Catalog=VoyagesEmployes;Integrated Security=True";
 
         private static SqlConnection coonection=new SqlConnection(connectionString);
 
